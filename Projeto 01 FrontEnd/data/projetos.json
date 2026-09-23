@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "titulo":"HTML Semântico",
+        "descricao":"Projeto criado para praticar header, nav, main, section, article e footer",
+        "categoria":"html"
+    },
+    {
+        "id":2,
+        "titulo":"Bos Model",
+        "descricao":"Projeto criado para praticar header, nav, main, section, article e footer",
+        "categoria":"css"
+    },{
+        "id":3,
+        "titulo":"Flexbox e Grid",
+        "descricao":"Projeto criado para praticar header, nav, main, section, article e footer",
+        "categoria":"css"
+    },{
+        "id":4,
+        "titulo":"Página Responsiva",
+        "descricao":"Projeto criado para praticar header, nav, main, section, article e footer",
+        "categoria":"responsivo"
+    },{
+        "id":5,
+        "titulo":"Acessibilidade",
+        "descricao":"Projeto criado para praticar header, nav, main, section, article e footer",
+        "categoria":"acessibilidade"
+    }
+]
